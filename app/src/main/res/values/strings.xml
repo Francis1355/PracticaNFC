@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaNFC</string>
+    <string name="txtTittle">NFC</string>
+    <string name="btnEn">Encender/Actualizar</string>
+
+</resources>
+
+
+
